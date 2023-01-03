@@ -4,6 +4,8 @@ public class Hat {
 
         System.out.println("This is a nice hat");
 
-        System.out.println("the hat is gray");
+        System.out.println("The hat is gray");
+
+        System.out.println("It costs 45$ ");
     }
 }
